@@ -1,0 +1,26 @@
+
+1. Reverse a String: Write a Java program to reverse a string without using reverse().
+2. Check Palindrome: Check whether a given string is a palindrome.
+3. Find Duplicate Characters: Find all duplicate characters in a string.
+4. Count Character Frequency: Count how many times each character appears in a string.
+5. Find the First Non-Repeated Character: Return the first character that appears only once.
+6. Reverse Each Word: Reverse every word in a sentence while keeping the word order unchanged.
+7. Remove Duplicate Characters: Remove duplicate characters from a string while preserving their first occurrence.
+8. Find the Largest Number & Samllest Number: Find the largest & smallest number in an integer array without using Arrays.sort().
+9. Find the Second-Largest Number: Find the second-largest number in an array.
+10. Find Duplicate Elements in an Array: Identify duplicate values from an integer array.
+11. Find Missing Number: Find the missing number from an array containing numbers from 1 to N.
+12. Sort an Array Without Built-in Methods: Implement a sorting algorithm manually.
+13. Find Common Elements: Find common elements between two arrays.
+14. Find the Sum of Array Elements: Calculate the sum of all elements in an integer array.
+15. Find Even and Odd Numbers: Separate even and odd numbers from an array.
+16. Check Prime Number: Write a program to determine whether a number is prime.
+17. Generate Fibonacci Series: Generate the Fibonacci sequence up to N terms.
+18. Find Factorial: Calculate the factorial of a number using both iterative and recursive approaches.
+19. Swap Two Numbers: Swap two numbers without using a third variable.
+20. Count Vowels and Consonants: Count vowels and consonants in a given string.
+21. Check Anagram: Determine whether two strings are anagrams.
+22. Find the Largest Word: Find the longest word in a sentence.
+23. Count Words in a String: Count the number of words in a sentence.
+24. Remove Spaces From a String: Remove all whitespace from a given string.
+25. Find Character Occurrences: Find the number of occurrences of a specific character in a string.
