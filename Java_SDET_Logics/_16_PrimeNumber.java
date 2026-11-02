@@ -20,7 +20,7 @@ public class _16_PrimeNumber {
 
         boolean isPrime = true;
 
-        if (num == 0 || num < 1) {
+        if (num == 1 || num < 0) {
             isPrime = false;
         
         } else {

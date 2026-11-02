@@ -19,11 +19,14 @@ public class _21_Anagrams_Logic {
         Arrays.sort(firstword);
         Arrays.sort(secondword);
 
+        /*
         if(Arrays.equals(firstword, secondword)){
             System.out.println("the words are anagrams");
         }else{
             System.out.println("the two words are not the anagrams");
         }
+             */
+            System.out.println(Arrays.equals(firstword, secondword)?"Both of them are anagrams" :" Both are not anagrams");
 
     }
 }

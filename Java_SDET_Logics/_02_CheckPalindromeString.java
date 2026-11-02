@@ -22,6 +22,8 @@ public class _02_CheckPalindromeString {
         System.out.println("the reverse of the user entered string is ");
         System.out.println(ReversedString);
 
+        System.out.println(originalText.contentEquals(ReversedString.toString())?"the text entered is palindrome":"the text entered is not palindrome");
+
         if(originalText.equalsIgnoreCase(ReversedString.toString())){
             System.out.println("the text entered is palindrome");
         }else{

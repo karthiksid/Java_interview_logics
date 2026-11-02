@@ -13,9 +13,8 @@ class Reverse_String_StringBuffer {
 
         StringBuffer ReversedString = new StringBuffer();
 
-        for(int i=lengthOfUserInput-1;i>=0;i--){
-            char reverseWord = userInput.charAt(i);
-            ReversedString.append(reverseWord);
+        for(int i=lengthOfUserInput-1;i>=0;i--){            
+            ReversedString.append(userInput.charAt(i));
         }
 
         System.out.println("the reverse of the user entered string is ");

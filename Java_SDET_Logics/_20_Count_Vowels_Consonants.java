@@ -15,9 +15,9 @@ public class _20_Count_Vowels_Consonants {
         int consonantsCount=0;
 
         for(char ch : userInput.toCharArray()){
-            if (ch=='a' ||ch=='e'||ch=='i'||ch=='o'||ch=='u'){
+            if (ch=='a' ||ch=='e'||ch=='i'||ch=='o'||ch=='u'){                
                 vowelsCount++;
-            }else{
+            }else{                
                 consonantsCount++;
             }
         }

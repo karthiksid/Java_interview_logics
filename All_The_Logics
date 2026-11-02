@@ -19,8 +19,10 @@
 18. Find Factorial: Calculate the factorial of a number using both iterative and recursive approaches.
 19. Swap Two Numbers: Swap two numbers without using a third variable.
 20. Count Vowels and Consonants: Count vowels and consonants in a given string.
+
 21. Check Anagram: Determine whether two strings are anagrams.
 22. Find the Largest Word: Find the longest word in a sentence.
 23. Count Words in a String: Count the number of words in a sentence.
 24. Remove Spaces From a String: Remove all whitespace from a given string.
 25. Find Character Occurrences: Find the number of occurrences of a specific character in a string.
+26. Move the zero in the array to largest
